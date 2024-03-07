@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "fname": "marwa",
+        "lname": "Ahamed",
+        "age": 25,
+        "city": "Tanta"
+    },
+    {
+        "id": 3,
+        "fname": "mohamed",
+        "lname": "sayed",
+        "age": 35,
+        "city": "Alex"
+    },
+    {
+        "id": 5,
+        "fname": "Aya",
+        "lname": "Mohamed",
+        "age": 25,
+        "city": "Tanta"
+    },
+    {
+        "id": 7,
+        "fname": "Moaz",
+        "lname": "Mohamed",
+        "age": 21,
+        "city": "Tanta"
+    },
+    {
+        "id": 9,
+        "fname": "Mostafa",
+        "lname": "Mohamed",
+        "age": 60,
+        "city": "Cairo"
+    },
+    {
+        "id": 10,
+        "fname": "Islam",
+        "lname": "Mohamed",
+        "age": 30,
+        "city": "Tanta"
+    }
+]
